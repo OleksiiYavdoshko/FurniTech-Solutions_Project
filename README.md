@@ -52,31 +52,19 @@ The interactive dashboard enables FurniTech Solutions to monitor sales trends an
 ## Main body
 
 ### Summary of errors in data
-The dataset was carefully reviewed for errors and inconsistencies to ensure data accuracy and reliability for meaningful analysis. The errors include:
-1. Structural errors:
-- Spelling errors: In the 'Ship Mode' column, there are two values that are identical ('Parcel 2 Go' and 'ParcelToGo'). Since there is only one occurrence of 'Parcel 2 Go', I changed it to 'ParcelToGo';
-- Incongruent values: In the 'Product Category' column, there are two similar values ('Tech' and 'Technology'). As there is only one occurrence of 'Tech', I changed it to 'Technology'.
-2. Data types and formats:
-- Incorrect data types: In the 'Ship Date' column there are 2 data types: date and text);
-- Incorrect formats: In 'Order Date' column there are 2 different format of date type.
-3. Duplicates:
-- More than one instance of the same record of data in a dataset, thus leading to incorrect calculations, results or conclusions (7 duplicates values were found in the dataset).
+The dataset was carefully reviewed for errors but no duplicate values, data inconsistencies or missing values were found.
 
 ### Additional calculations and columns
-Additional calculated columns were made:
-- Date difference (difference between Ship date and Order date);
-- Total costs ((Cost of Sales + Shipping Cost) *(1-discount));
-- Sales Revenue (Quantity ordered new * Unit Price);
-- Profit (Sales Revenue - Total costs).
+Additional calculated column was made:
+- Price (Sales/Quantity).
 
 ### Hypothesis
-- **Correlation between order priority and date difference** (This question explores whether there is a relationship between the urgency of order priority and the time it takes for orders to be shipped, which can inform decision-making regarding order processing efficiency);
-- **Correlation between ship mode and date difference** (This question investigates whether the chosen shipping mode affects the time it takes for orders to be shipped, which can impact logistics and customer satisfaction);
-- **Is there a relationship between the quantity of products ordered and the discount offered?** (This question examines whether there is a correlation between the quantity of products ordered and the discount offered, which can influence purchasing behaviour and pricing strategies);
-- **Which product sub-category, product category and customer segment are the best-selling and are most profitable (worst selling)** (This question aims to identify the top-performing and underperforming product sub-categories, categories, and customer segments in terms of sales and profitability, guiding resource allocation and marketing efforts);
-- **Which regions have the highest and lowest sales and profits?** (This question analyses regional sales and profitability data to identify geographic trends and opportunities, helping prioritize markets and allocate resources effectively);
-- **How does the unit price of products vary across different product sub-categories?** (This question examines the variability in unit prices across different product sub-categories, providing insights into pricing strategies and market dynamics within specific product categories);
-- **Trends or patterns in sales, profits over time (monthly, quarterly)** (This question explores temporal trends and patterns in sales and profits over time, allowing for the identification of seasonality, growth trends, or other cyclical patterns that can inform strategic decision-making and resource planning).
+- **Which customer segment is the best-selling and most profitable** (Understanding which customer segment contributes the most to sales and profits allows for targeted marketing efforts and tailored customer experiences. It helps in allocating resources effectively towards segments that offer the highest return on investment);
+- **Which product category has the highest sales and profit** (Identifying the top-performing product categories informs inventory management, pricing strategies, and product development efforts. It guides decision-making on resource allocation and expansion opportunities in high-demand product categories);
+- **Correlation between quantity sold and profit** (Analyzing the relationship between quantity sold and profit provides insights into pricing strategies, production costs, and overall profitability);
+- **How discount impact sales** (Understanding the impact of discounts on sales revenue helps in designing effective promotional campaigns and pricing strategies. It informs decisions on discounting levels, timing, and target segments to achieve desired sales outcomes while maintaining profitability);
+- **Which regions have the highest and lowest sales and profits** (Identifying regional sales and profit performance highlights geographic market opportunities and challenges. It guides resource allocation, market expansion strategies, and localized marketing efforts to capitalize on high-performing regions and address underperforming ones);
+- **Trend in sales and profit over time** (Monitoring sales and profit trends over time provides insights into business performance, market dynamics, and seasonality effects. It helps in forecasting future sales, identifying growth opportunities, and adjusting strategies to align with changing market conditions).
 
 ## Analysis
 <p align="center" width="100%">
