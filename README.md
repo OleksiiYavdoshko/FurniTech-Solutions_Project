@@ -82,13 +82,10 @@ Based on the charts, it is evident that the Consumer segment generates the highe
 We can see from the charts that the product category with the highest sales and profit is Technology. There is a significant disparity in profit between the Furniture product category and Office Supplies and Technology, with Office Supplies and Technology generating at least six times more profit than Furniture. Interestingly, despite this difference in profit, the sales charts indicate that Furniture actually has higher sales than Office Supplies.
 
 <p align="center" width="100%">
-    <img width="70%" src="Pivot_table.png">
-</p>
-<p align="center" width="100%">
-    <img width="40%" src="Correlation_analysis.png">
+    <img width="50%" src="Correlation_Quantity_Profit.PNG">
 </p>
 
-To examine the relationship between the quantity of products ordered and the discount offered, I created a pivot table and conducted a correlation analysis. The pivot table reveals that there is only one order for a product with a 17% discount and just ten orders for products with a 21% discount. While these numbers may initially seem like outliers, upon closer examination, they do not appear to significantly skew the data. Furthermore, the correlation analysis revealed that there is no correlation between the quantity ordered and the discount percentage. Despite the common assumption that higher discounts might lead to larger quantities ordered, this analysis suggests otherwise.
+To understand the correlation between quantity sold and profit, I conducted a correlation analysis. The results of this analysis reveal that there is no correlation between the quantity sold and profit.
 
 Overall, the purpose of this analysis was to investigate whether higher discounts influence the quantity of ordered products. However, the findings indicate that discount percentage alone may not be a significant driver of order quantity.
 <p align="center" width="100%">
