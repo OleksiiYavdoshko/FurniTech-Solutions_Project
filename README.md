@@ -68,7 +68,8 @@ Additional calculated column was made:
 
 ## Analysis
 <p align="center" width="100%">
-    <img width="40%" src="Average_of_Date_difference_by_Order_Priority.png">
+    <img width="40%" src="Customer_segment_by_sales.PNG">
+    <img width="40%" src="Customer_segment_by_profit.PNG">
 </p>
 
 The data presented in the chart indicates a notable correlation between the date difference and order priority. Specifically, orders with low priority exhibit a higher average date difference, around 4 days, whereas orders with high and critical priority show substantially lower average date differences, ranging between 1.3 to 1.4 days.
