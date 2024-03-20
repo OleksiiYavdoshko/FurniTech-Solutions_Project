@@ -24,7 +24,7 @@
 * [Dashboard](#dashboard)
 
 ## Introduction
-This is an Excel project of an **imaginary store** called **FurniTech Solutions**. Data set was provided on Youtube video description (name of the channel: Skillnator, name of the video: Create interactive excel dashboard in 5 simple steps. The project aims to provide insights into the sales performance of the company. By analysing data we seek to identify trends and gain a deeper understanding of the company's performance.
+This is an Excel project of an **imaginary store** called **FurniTech Solutions**. Data set was provided on Youtube video description (name of the channel: Skillnator, name of the video: "Create interactive excel dashboard in 5 simple steps". The project aims to provide insights into the sales performance of the company. By analysing data we seek to identify trends and gain a deeper understanding of the company's performance.
 
 ### Company background
 FurniTech Solutions operates in the retail industry, specializing in online sales of furniture, office supplies and technology.
