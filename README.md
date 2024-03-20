@@ -1,6 +1,6 @@
 # FurniTech Solutions Sales Data Analysis
 
-![](Intro_image_Office_Supplies.jpg)
+![](Intro_image_FurniTech_Solutions.jpg)
 ---
 
 ## Table of Contents
@@ -24,16 +24,16 @@
 * [Dashboard](#dashboard)
 
 ## Introduction
-This is an Excel and Power BI project of an **imaginary store** called **Office World**. Data set was provided on Skills Bootcamp from We Are Group. The project is to analyse and derive insights to answer crucial questions and help the store make data-driven decision. 
+This is an Excel project of an **imaginary store** called **FurniTech Solutions**. Data set was provided on Youtube video description (name of the channel: Skillnator, name of the video: Create interactive excel dashboard in 5 simple steps. The project aims to provide insights into the sales performance of the company. By analysing data we seek to identify trends and gain a deeper understanding of the company's performance.
 
 ### Company background
-Office World, with over 60 years of experience, is a well-established retailer specializing in office supplies and technology products. The company is committed to offering quality products and excellent customer service. 
+FurniTech Solutions operates in the retail industry, specializing in online sales of furniture, office supplies and technology.
 
 ### Current position
-Office World seeks to enhance its marketing efforts by gaining a deeper understanding of product popularity, profitability, and customer preferences. The company aims to leverage this insight to expand its customer base and improve customer satisfaction.
+Despite strong sales performance, FurniTech Solutions faces challenges in analyzing sales data efficiently and deriving actionable insights.
 
 ### Company objectives
-Office World's primary objectives include identifying in-demand products, maximizing profitability, and reaching new customers through targeted marketing strategies.
+The primary objectives include optimizing inventory management, identifying top-performing products, and enhancing overall sales performance.
 
 ## Executive summary
 
