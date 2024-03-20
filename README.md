@@ -72,14 +72,14 @@ Additional calculated column was made:
     <img width="40%" src="Customer_segment_by_profit.PNG">
 </p>
 
-The data presented in the chart indicates a notable correlation between the date difference and order priority. Specifically, orders with low priority exhibit a higher average date difference, around 4 days, whereas orders with high and critical priority show substantially lower average date differences, ranging between 1.3 to 1.4 days.
+Based on the charts, it is evident that the Consumer segment generates the highest sales and profit, while the Home Office segment demonstrates lower performance.
 
 <p align="center" width="100%">
-    <img width="40%" src="Average_of_Date_difference_by_Ship_Mode.png">
-    <img width="40%" src="Count_of_Order_Date_by_Ship_Mode.png">
+    <img width="40%" src="Product_category_by_sales.PNG">
+    <img width="40%" src="Product_category_by_profit.PNG">
 </p>
 
-Similar analysis was conducted to investigate the correlation between ship mode and date difference. The data suggests that there is minimal variation in date differences, ranging from 1 to 2 days across different ship modes. Notably, Royal Mail exhibits the highest average date difference, nearly 2 days. However, upon closer examination, it is evident that Royal Mail also handles the largest number of orders (1280), which may vary significantly in priority. Therefore, it is reasonable to infer that there is no significant correlation between ship mode and date difference.
+We can see from the charts that the product category with the highest sales and profit is Technology. There is a significant disparity in profit between the Furniture product category and Office Supplies and Technology, with Office Supplies and Technology generating at least six times more profit than Furniture. Interestingly, despite this difference in profit, the sales charts indicate that Furniture actually has higher sales than Office Supplies.
 
 <p align="center" width="100%">
     <img width="70%" src="Pivot_table.png">
