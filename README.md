@@ -41,13 +41,13 @@ The primary objectives include optimising inventory management, identifying top-
 FurniTech Solutions struggles to effectively track sales trends, monitor inventory levels, and identify areas for improvement due to the complexity and volume of sales data. 
 
 ### The analysis's goal
-The goal of this analysis is to develop an interactive Excel dashboard that enables FurniTech Solutions to visualize sales data dynamically and derive actionable insights.
+The goal of this analysis is to analyse historical data to identify trends and petterns and to develop an interactive Excel dashboard that enables FurniTech Solutions to visualize sales data dynamically and derive actionable insights.
 
 ### The data and techniques employed
-Sales data from FurniTech Solutions were collected and analysed using Excel. Techniques such as pivot tables, charts, slicers and conditional formatting were employed to create interactive visualizations.
+Sales data from FurniTech Solutions were collected and analysed using Excel. Techniques such as pivot tables, charts, slicers and conditional formatting were employed to create interactive visualisations.
 
 ### Brief interpretation of results
-The interactive dashboard enables FurniTech Solutions to monitor sales trends and identify opportunities for growth and optimization.
+The interactive dashboard enables FurniTech Solutions to monitor sales trends and identify opportunities for growth and optimisation.
 
 ## Main body
 
