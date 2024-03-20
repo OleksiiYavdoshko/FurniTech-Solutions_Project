@@ -27,13 +27,13 @@
 This is an Excel project of an **imaginary store** called **FurniTech Solutions**. Data set was provided on Youtube video description (name of the channel: Skillnator, name of the video: "Create interactive excel dashboard in 5 simple steps". The project aims to provide insights into the sales performance of the company. By analysing data we seek to identify trends and gain a deeper understanding of the company's performance.
 
 ### Company background
-FurniTech Solutions operates in the retail industry, specializing in online sales of furniture, office supplies and technology.
+FurniTech Solutions operates in the retail industry, specialising in online sales of furniture, office supplies and technology.
 
 ### Current position
 Despite strong sales performance, FurniTech Solutions faces challenges in analysing sales data efficiently and deriving actionable insights.
 
 ### Company objectives
-The primary objectives include optimizing inventory management, identifying top-performing products, and enhancing overall sales performance.
+The primary objectives include optimising inventory management, identifying top-performing products, and enhancing overall sales performance.
 
 ## Executive summary
 
