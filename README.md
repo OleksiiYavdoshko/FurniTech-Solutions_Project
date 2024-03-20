@@ -82,7 +82,7 @@ Based on the charts, it is evident that the Consumer segment generates the highe
 We can see from the charts that the product category with the highest sales and profit is Technology. There is a significant disparity in profit between the Furniture product category and Office Supplies and Technology, with Office Supplies and Technology generating at least six times more profit than Furniture. Interestingly, despite this difference in profit, the sales charts indicate that Furniture actually has higher sales than Office Supplies.
 
 <p align="center" width="100%">
-    <img width="50%" src="Correlation_Quantity_Profit.PNG">
+    <img width="50%" src="Correlation_Quantity_Profit1.PNG">
 </p>
 
 To understand the correlation between quantity sold and profit, I conducted a correlation analysis. The results of this analysis reveal that there is no correlation between the quantity sold and profit.
