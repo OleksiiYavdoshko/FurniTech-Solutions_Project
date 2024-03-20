@@ -38,16 +38,16 @@ The primary objectives include optimizing inventory management, identifying top-
 ## Executive summary
 
 ### The problem
-Office World aims to analyse its product sales data to identify popular and profitable products and understand its current customer base better.
+FurniTech Solutions struggles to effectively track sales trends, monitor inventory levels, and identify areas for improvement due to the complexity and volume of sales data. 
 
 ### The analysis's goal
-The objective of this analysis is to assess product popularity, profitability, and customer segmentation to inform marketing strategies and improve product offerings.
+The goal of this analysis is to develop an interactive Excel dashboard that enables FurniTech Solutions to visualize sales data dynamically and derive actionable insights.
 
 ### The data and techniques employed
-The analysis utilizes sales data including order date, ship date, customer segment, product category, region, quantity ordered new, cost of sales, unit price, etc. Techniques such as data cleaning, exploratory data analysis, and visualization were employed to derive insights from the data.
+Sales data from FurniTech Solutions were collected and analysed using Excel. Techniques such as pivot tables, charts, slicers and conditional formatting were employed to create interactive visualizations.
 
 ### Brief interpretation of results
-The analysis reveals insights into product popularity, profitability, and customer segments. These insights will guide Office World in optimizing its marketing strategy.
+The interactive dashboard enables FurniTech Solutions to monitor sales trends and identify opportunities for growth and optimization.
 
 ## Main body
 
