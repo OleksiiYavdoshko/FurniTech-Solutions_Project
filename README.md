@@ -30,7 +30,7 @@ This is an Excel project of an **imaginary store** called **FurniTech Solutions*
 FurniTech Solutions operates in the retail industry, specializing in online sales of furniture, office supplies and technology.
 
 ### Current position
-Despite strong sales performance, FurniTech Solutions faces challenges in analyzing sales data efficiently and deriving actionable insights.
+Despite strong sales performance, FurniTech Solutions faces challenges in analysing sales data efficiently and deriving actionable insights.
 
 ### Company objectives
 The primary objectives include optimizing inventory management, identifying top-performing products, and enhancing overall sales performance.
