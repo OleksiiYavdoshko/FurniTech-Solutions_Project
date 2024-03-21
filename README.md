@@ -125,6 +125,13 @@ But if we look at the states with lowest all time sales and profit, we can notic
 
 As evident from the charts, New York City, Los Angeles, and Seattle emerge as the cities with the highest all-time sales and profits. Remarkably, New York City stands out with profits exceeding those of other cities by at least two times.
 
+<p align="center" width="100%">
+    <img width="80%" src="Cities_with_lowest_Sales3.PNG">
+    <img width="80%" src="Cities_with_lowest_Profit.PNG">
+</p>
+
+A similar trend is evident when examining cities, where Philadelphia, Houston, Chicago, and Jacksonville rank among the top 10 cities with the highest all-time sales. However, despite their strong sales performance, these cities exhibit some of the smallest all-time profits.
+
 
 <p align="center" width="100%">
     <img width="40%" src="Sum_of_Sales_by_Product_Category.png">
