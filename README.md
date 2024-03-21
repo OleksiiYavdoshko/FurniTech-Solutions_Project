@@ -119,6 +119,14 @@ As evident from the charts, California and New York demonstrate the highest all 
 But if we look at the states with lowest all time sales and profit, we can notice, that despite Texas, Pennsylvania, Illinois, and Florida ranking in the top 10 states with the highest all-time sales, they actually have some of the smallest all-time profits. This suggests a notable disparity between sales revenue and profitability in these states.
 
 <p align="center" width="100%">
+    <img width="80%" src="Cities_with_highest_Sales.PNG">
+    <img width="80%" src="Cities_with_highest_Profit.PNG">
+</p>
+
+As evident from the charts, New York City, Los Angeles, and Seattle emerge as the cities with the highest all-time sales and profits. Remarkably, New York City stands out with profits exceeding those of other cities by at least two times.
+
+
+<p align="center" width="100%">
     <img width="40%" src="Sum_of_Sales_by_Product_Category.png">
     <img width="40%" src="Sum_of_Profit_by_Product_Category.png">
 </p>
