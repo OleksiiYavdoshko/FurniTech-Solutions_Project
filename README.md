@@ -21,6 +21,7 @@
     * [Written insights](#written-insights-explaining-the-outcomeresults-of-each-analysis-and-response-to-hypothesis)
 * [Conclusion](#conclusion)
 * [Recommendations for action](#recommendations-for-action)
+* [Resources](#resources)
 * [Dashboard](#dashboard)
 
 ## Introduction
