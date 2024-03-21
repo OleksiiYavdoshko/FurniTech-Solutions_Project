@@ -65,7 +65,7 @@ Additional calculated column was made:
 - **How discount impact sales** (Understanding the impact of discounts on sales revenue helps in designing effective promotional campaigns and pricing strategies. It informs decisions on discounting levels, timing, and target segments to achieve desired sales outcomes while maintaining profitability);
 - **Which regions have the highest and lowest sales and profits** (Identifying regional sales and profit performance highlights geographic market opportunities and challenges. It guides resource allocation, market expansion strategies, and localized marketing efforts to capitalize on high-performing regions and address underperforming ones);
 - **Which states and cities have the highest and lowest sales and profits** (This analysis will provide insights into the regional performance of the business and help identify areas of strength and opportunities for improvement);
-- **Trend in sales and profit over time** (Monitoring sales and profit trends over time provides insights into business performance, market dynamics, and seasonality effects. It helps in forecasting future sales, identifying growth opportunities, and adjusting strategies to align with changing market conditions).
+- **Trends in sales and profit over time** (Monitoring sales and profit trends over time provides insights into business performance, market dynamics, and seasonality effects. It helps in forecasting future sales, identifying growth opportunities, and adjusting strategies to align with changing market conditions).
 
 ## Analysis
 <p align="center" width="100%">
@@ -140,13 +140,13 @@ A similar trend is evident when examining cities, where Philadelphia, Houston, C
 The charts illustrate change in sales, price, and profit over a four-year period. A clear seasonal pattern is evident, with consistent growth in sales and profit during the fourth quarter of each year. Additionally, the fourth quarter of 2016 stands out as the top-performing period, characterized by both high sales volume and prices.
 
 ### Written insights explaining the outcome/results of each analysis and response to hypothesis
-- **Correlation between order priority and date difference**: There is a correlation between order priority and date difference, particularly noticeable in low-priority orders. However, the difference in shipping time between high, critical, and medium priority orders is not significant.
-- **Correlation between ship mode and date difference**: There is no correlation between ship mode and date difference, indicating that the chosen shipping method does not significantly impact the time it takes for orders to be shipped.
-- **Relationship between quantity of products and discount**: There is no correlation between the quantity of products ordered and the discount offered, suggesting that discount offers do not influence the quantity of products ordered.
-- **Best and worst performing product categories and customer segments**: The top-performing product category in terms of sales and profit is technology, while the underperforming category is office supplies. Similarly, the corporate customer segment performs best in both sales and profit, while the consumer segment underperforms.
-- **Regions with highest sales and profits**: The region with the highest sales is the East, whereas the region with the highest profit is the West.
-- **Variability in unit prices across product sub-categories**: The most expensive product sub-categories are copiers and fax, and office machines, indicating higher pricing for these items compared to others.
-- **Trends in sales and profits over time**: Sales show a growth of 17.5% in the 2nd quarter compared to the 1st quarter. However, there is a notable decline in profit by 18% during the same period.
+- **Which customer segment is the best-selling and most profitable**: Consumer segment has the highest sales and profit, whike the Home Office segment underperform.
+- **Which product category has the highest sales and profit**: Technology product category has the highest sales and profit. While Office Supplies has the lowest sale, but it actually has the big profit.
+- **Correlation between quantity sold and profit**: There is no correlation between quantity sold and profit.
+- **How discount impact sales**: Discount has not a big influence on the sales amount.
+- **Which regions have the highest and lowest sales and profits**: East and West regions have the highest sales and profit. While Central region has bigger sale than South but it actually has lower profit than South.
+- **Which states and cities have the highest and lowest sales and profits**: California and New York have the highest sales and profit. While Texas is on the third place by all time Sales, it actually has the lowest all time Profit. New York City and Los Angeles have the highest all time sales and profit. New York City stands out with profits exceeding those of other cities by at least two times.
+- **Trends in sales and profit over time**: there is a seasonal pattern with the highest sales and profit in the fourth quarter of each year.
 
 ## Conclusion
 The analysis highlights opportunities for Office World to focus its marketing efforts on promoting top-selling and high-profit products to its target customer segments. By understanding customer preferences and purchasing patterns, Office World can tailor its marketing campaigns to better meet customer needs and drive sales.
