@@ -140,13 +140,13 @@ A similar trend is evident when examining cities, where Philadelphia, Houston, C
 The charts illustrate change in sales, price, and profit over a four-year period. A clear seasonal pattern is evident, with consistent growth in sales and profit during the fourth quarter of each year. Additionally, the fourth quarter of 2016 stands out as the top-performing period, characterized by both high sales volume and prices.
 
 ### Written insights explaining the outcome/results of each analysis and response to hypothesis
-- **Which customer segment is the best-selling and most profitable**: Consumer segment has the highest sales and profit, whike the Home Office segment underperform.
-- **Which product category has the highest sales and profit**: Technology product category has the highest sales and profit. While Office Supplies has the lowest sale, but it actually has the big profit.
+- **Which customer segment is the best-selling and most profitable**: Consumer segment has the highest sales and profit, while the Home Office segment underperforms.
+- **Which product category has the highest sales and profit**: Technology product category has the highest sales and profit. While Office Supplies has the lowest sale, it actually has the big profit.
 - **Correlation between quantity sold and profit**: There is no correlation between quantity sold and profit.
-- **How discount impact sales**: Discount has not a big influence on the sales amount.
-- **Which regions have the highest and lowest sales and profits**: East and West regions have the highest sales and profit. While Central region has bigger sale than South but it actually has lower profit than South.
-- **Which states and cities have the highest and lowest sales and profits**: California and New York have the highest sales and profit. While Texas is on the third place by all time Sales, it actually has the lowest all time Profit. New York City and Los Angeles have the highest all time sales and profit. New York City stands out with profits exceeding those of other cities by at least two times.
-- **Trends in sales and profit over time**: there is a seasonal pattern with the highest sales and profit in the fourth quarter of each year.
+- **How discount impact sales**: Discount does not have a significant influence on sales.
+- **Which regions have the highest and lowest sales and profits**: East and West regions have the highest sales and profit. While the Central region has higher sales than the South, it actually has lower profits.
+- **Which states and cities have the highest and lowest sales and profits**: California and New York have the highest sales and profit. While Texas ranks third in all-time sales, it actually has the lowest all-time profit. New York City and Los Angeles have the highest all time sales and profit. New York City stands out with profits exceeding those of other cities by at least two times.
+- **Trends in sales and profit over time**: There is a seasonal pattern, with the highest sales and profit occurring in the fourth quarter of each year.
 
 ## Conclusion
 The analysis highlights opportunities for Office World to focus its marketing efforts on promoting top-selling and high-profit products to its target customer segments. By understanding customer preferences and purchasing patterns, Office World can tailor its marketing campaigns to better meet customer needs and drive sales.
