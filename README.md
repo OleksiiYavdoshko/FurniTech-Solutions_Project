@@ -149,15 +149,18 @@ The charts illustrate change in sales, price, and profit over a four-year period
 - **Trends in sales and profit over time**: There is a seasonal pattern, with the highest sales and profit occurring in the fourth quarter of each year.
 
 ## Conclusion
-The analysis highlights opportunities for Office World to focus its marketing efforts on promoting top-selling and high-profit products to its target customer segments. By understanding customer preferences and purchasing patterns, Office World can tailor its marketing campaigns to better meet customer needs and drive sales.
+The analysis of sales data has revealed important trends and patterns, providing valuable insights into the performance of different segments, categories, regions, and time periods. These insights enable informed decision-making and strategic planning to drive business growth and profitability.
 
 ## Recommendations for action
-Based on the analysis findings, recommendations for action include:
-- Developing targeted marketing campaigns to promote top-selling products to specific customer segments;
-- Expanding product offerings in high-demand categories to capitalize on market trends and customer preferences;
-- Implementing pricing strategies to optimize profitability while maintaining competitive pricing;
-- Investing in customer relationship management (CRM) systems to personalize marketing communications and improve customer engagement.
+Based on the identified trends and opportunities, the following recommendations are suggested to optimize sales strategies and enhance profitability:
+- Implement targeted marketing campaigns: Utilize the insights gained from the analysis to tailor marketing efforts towards high-performing segments, products, and regions;
+- Enhance customer engagement: Leverage personalized promotions, discounts, and customer-centric initiatives to foster loyalty and drive repeat purchases;
+- Monitor seasonal trends: Continuously monitor sales and profit trends over time, particularly during peak seasons, to capitalise on opportunities and mitigate risks;
+- Invest in data-driven decision-making: Further develop and utilise interactive dashboards and analytical tools to track performance metrics, identify emerging trends, and make informed decisions in real-time.
+
+## Resources
+https://www.youtube.com/watch?v=eaSg0mu6nLM&ab_channel=Skillnator
 
 ## Dashboard
-![](Project_Office_Supply_dashboard.PNG)
+![](Dashboard.PNG)
 ---
