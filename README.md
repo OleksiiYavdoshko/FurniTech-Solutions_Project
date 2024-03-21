@@ -68,15 +68,15 @@ Additional calculated column was made:
 
 ## Analysis
 <p align="center" width="100%">
-    <img width="40%" src="Customer_segment_by_sales.PNG">
-    <img width="40%" src="Customer_segment_by_profit.PNG">
+    <img width="40%" src="Customer_segment_by_sales2.PNG">
+    <img width="40%" src="Customer_segment_by_profit1.PNG">
 </p>
 
 Based on the charts, it is evident that the Consumer segment generates the highest sales and profit, while the Home Office segment demonstrates lower performance.
 
 <p align="center" width="100%">
-    <img width="40%" src="Product_category_by_sales.PNG">
-    <img width="40%" src="Product_category_by_profit.PNG">
+    <img width="40%" src="Product_category_by_Sales1.PNG">
+    <img width="40%" src="Product_category_by_Profit1.PNG">
 </p>
 
 We can see from the charts that the product category with the highest sales and profit is Technology. There is a significant disparity in profit between the Furniture product category and Office Supplies and Technology, with Office Supplies and Technology generating at least six times more profit than Furniture. Interestingly, despite this difference in profit, the sales charts indicate that Furniture actually has higher sales than Office Supplies.
@@ -87,7 +87,25 @@ We can see from the charts that the product category with the highest sales and 
 
 To understand the correlation between quantity sold and profit, I conducted a correlation analysis. The results of this analysis reveal that there is no correlation between the quantity sold and profit.
 
-Overall, the purpose of this analysis was to investigate whether higher discounts influence the quantity of ordered products. However, the findings indicate that discount percentage alone may not be a significant driver of order quantity.
+<p align="center" width="100%">
+    <img width="50%" src="Discount_and_Sales.PNG">
+</p>
+<p align="center" width="100%">
+    <img width="50%" src="Correlation_Discount_and_Sales.PNG">
+</p>
+
+To understand how discounts impact sales, I created a pivot table with pivot chart and conducted a correlation analysis. As shown in the chart, there is no correlation between discount and sales. Interestingly, the highest sales were recorded with a discount of 20%. Furthermore, the correlation analysis confirms the absence of any correlation between discounts and sales. Overall, the purpose of this analysis was to investigate whether higher discounts influence sales. However, the findings suggest that discount percentage alone may not be a significant driver of sales
+
+<p align="center" width="100%">
+    <img width="40%" src="Region_by_sales1.PNG">
+    <img width="40%" src="Region_by_profit1.PNG">
+</p>
+
+
+
+
+
+
 <p align="center" width="100%">
     <img width="40%" src="Sum_of_Sales_by_Product_Category.png">
     <img width="40%" src="Sum_of_Profit_by_Product_Category.png">
