@@ -105,14 +105,18 @@ To understand how discounts impact sales, I created a pivot table with pivot cha
 As observed from the charts, the West and East regions exhibit the highest sales and profits. Interestingly, although the Central region demonstrates higher sales than the South, it actually has lower profits compared to the South region.
 
 <p align="center" width="100%">
-    <img width="40%" src="States_with_highest_Sales.PNG">
-    <img width="40%" src="States_with_highest_Profit.PNG">
-</p>
-<p align="center" width="100%">
-    <img width="40%" src="States_with_lowest_Sales.PNG">
-    <img width="40%" src="States_with_lowest_Profit.PNG">
+    <img width="80%" src="States_with_highest_Sales.PNG">
+    <img width="80%" src="States_with_highest_Profit.PNG">
 </p>
 
+As evident from the charts, California and New York demonstrate the highest all time sales and profits, surpassing other states by at least two times.
+
+<p align="center" width="100%">
+    <img width="80%" src="States_with_lowest_Sales.PNG">
+    <img width="80%" src="States_with_lowest_Profit.PNG">
+</p>
+
+But if we look at the states with lowest all time sales and profit, we can notice, that despite Texas, Pennsylvania, Illinois, and Florida ranking in the top 10 states with the highest all-time sales, they actually have some of the smallest all-time profits. This suggests a notable disparity between sales revenue and profitability in these states.
 
 <p align="center" width="100%">
     <img width="40%" src="Sum_of_Sales_by_Product_Category.png">
