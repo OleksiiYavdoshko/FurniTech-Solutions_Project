@@ -132,61 +132,12 @@ As evident from the charts, New York City, Los Angeles, and Seattle emerge as th
 
 A similar trend is evident when examining cities, where Philadelphia, Houston, Chicago, and Jacksonville rank among the top 10 cities with the highest all-time sales. However, despite their strong sales performance, these cities exhibit some of the smallest all-time profits.
 
-
 <p align="center" width="100%">
-    <img width="40%" src="Sum_of_Sales_by_Product_Category.png">
-    <img width="40%" src="Sum_of_Profit_by_Product_Category.png">
-</p>
-<p align="center" width="100%">
-    <img width="40%" src="Sum_of_Quantity_by_Product_Category.png">
-    <img width="41%" src="Sum_of_Unit_Price_by_Product_Category.png">
+    <img width="80%" src="Sales_by_quarters1.PNG">
+    <img width="80%" src="Profit_by_quarters.PNG">
 </p>
 
-The analysis of the provided charts reveals that the Technology category emerges as both the most selling and most profitable product category. Despite Office Supplies being the most ordered category, its comparatively lower average unit price results in smaller profits.
-<p align="center" width="100%">
-    <img width="40%" src="Sum_of_Sales_by_PSC_and_PC.png">
-    <img width="40%" src="Sum_of_Profit_by_PSC_and_PC.png">
-</p>
-
-The charts above indicate that the Telephones and Communication, along with Office Machines, emerge as the most profitable sub-categories.
-<p align="center" width="100%">
-    <img width="40%" src="Sum_of_Sales_by_Customer_Segment.png">
-    <img width="40%" src="Sum_of_Profit_by_Customer_Segment.png">
-</p>
-<p align="center" width="100%">
-    <img width="40%" src="Sum_of_Quantity_by_Customer_Segment.png">
-    <img width="40%" src="Sum_of_Unit_Price_by_Customer_Segment.png">
-</p>
-
-The analysis of the provided charts reveals that the Corporate customer segment emerges as both the most selling and most profitable. While the Consumer segment has the highest average unit price, its smaller quantity of orders results in comparatively lower sales and profit.
-<p align="center" width="100%">
-    <img width="40%" src="Top_10_Products_by_Sales.png">
-    <img width="39%" src="Top_10_Products_by_Profit.png">
-</p>
-
-Charts above shows top products by sales and by profit.
-<p align="center" width="100%">
-    <img width="40%" src="Sum_of_Sales_by_Region.png">
-    <img width="40%" src="Sum_of_Profit_by_Region.png">
-</p>
-
-The treemaps clearly indicate that the East region leads in terms of sales, while the West region emerges as the most profitable.
-<p align="center" width="100%">
-    <img width="40%" src="Average_of_Unit_Price_by_PSC_and_PC.png">
-</p>
-
-The chart above illustrates significant variability in unit prices among different product sub-categories. Notably, Copiers and Fax and Office Machines emerge as the most expensive sub-categories, indicating a clear division between more and less expensive product categories.
-<p align="center" width="100%">
-    <img width="40%" src="Sum_of_Sales_by_Month.png">
-    <img width="40%" src="Sum_of_Profit_by_Month.png">
-</p>
-<p align="center" width="100%">
-    <img width="40%" src="Average_of_Unit_Price_by_Month.png">
-    <img width="40%" src="Sum_of_Quantity_by_Month.png">
-</p>
-
-The charts show the trends over time for sales, profit, unit price, and quantity ordered. Notably, January and March exhibit the smallest sales figures, attributed to higher unit prices and lower quantities ordered during these months. In February, a decrease in unit price, coupled with a rise in the quantity of orders, resulted in increased sales and profit. May shows the smallest average unit price and the highest quantity of orders, leading to a small increase in profit but a decline in sales.
-Furthermore, the data indicates a 17.5% growth in sales during the second quarter compared to the first quarter. However, profit experienced an 18% decline during this period.
+The charts illustrate change in sales, price, and profit over a four-year period. A clear seasonal pattern is evident, with consistent growth in sales and profit during the fourth quarter of each year. Additionally, the fourth quarter of 2016 stands out as the top-performing period, characterized by both high sales volume and prices.
 
 ### Written insights explaining the outcome/results of each analysis and response to hypothesis
 - **Correlation between order priority and date difference**: There is a correlation between order priority and date difference, particularly noticeable in low-priority orders. However, the difference in shipping time between high, critical, and medium priority orders is not significant.
