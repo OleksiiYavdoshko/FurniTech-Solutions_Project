@@ -64,6 +64,7 @@ Additional calculated column was made:
 - **Correlation between quantity sold and profit** (Analyzing the relationship between quantity sold and profit provides insights into pricing strategies, production costs, and overall profitability);
 - **How discount impact sales** (Understanding the impact of discounts on sales revenue helps in designing effective promotional campaigns and pricing strategies. It informs decisions on discounting levels, timing, and target segments to achieve desired sales outcomes while maintaining profitability);
 - **Which regions have the highest and lowest sales and profits** (Identifying regional sales and profit performance highlights geographic market opportunities and challenges. It guides resource allocation, market expansion strategies, and localized marketing efforts to capitalize on high-performing regions and address underperforming ones);
+- **Which states and cities have the highest and lowest sales and profits** (This analysis will provide insights into the regional performance of the business and help identify areas of strength and opportunities for improvement);
 - **Trend in sales and profit over time** (Monitoring sales and profit trends over time provides insights into business performance, market dynamics, and seasonality effects. It helps in forecasting future sales, identifying growth opportunities, and adjusting strategies to align with changing market conditions).
 
 ## Analysis
@@ -101,9 +102,16 @@ To understand how discounts impact sales, I created a pivot table with pivot cha
     <img width="40%" src="Region_by_profit1.PNG">
 </p>
 
+As observed from the charts, the West and East regions exhibit the highest sales and profits. Interestingly, although the Central region demonstrates higher sales than the South, it actually has lower profits compared to the South region.
 
-
-
+<p align="center" width="100%">
+    <img width="40%" src="States_with_highest_Sales.PNG">
+    <img width="40%" src="States_with_highest_Profit.PNG">
+</p>
+<p align="center" width="100%">
+    <img width="40%" src="States_with_lowest_Sales.PNG">
+    <img width="40%" src="States_with_lowest_Profit.PNG">
+</p>
 
 
 <p align="center" width="100%">
